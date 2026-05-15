@@ -1,4 +1,4 @@
-# OAIPMH Repositorio Nacional de Ciencia y Tecnología. México. Consejo Nacional de Ciencia y Tecnología. 
+# Consulta con R y OAI-PMH al Repositorio Nacional de Ciencia y Tecnología. México. Consejo Nacional de Ciencia y Tecnología. 
 Librería de R IOA-PMH para analizar repositorios de acceso abierto, código y ejemplos de uso, descarga de colecciones y metadata de cada una.
 
 Harvesting academic metadata through the OAI-PMH protocol to measure the impact of scientific
